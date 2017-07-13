@@ -3,6 +3,227 @@ body {
   text-align: center;
   background-color: beige;
   font-family: 'Merriweather', serif;
-  margin: 0;
   padding: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h1 {
+  color: grey;
+  font-size: 1.5em;
+  padding: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.bodywrapper {
+  padding: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.title {
+  background-color: beige;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+nav {
+  padding: 0;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 0;
+    padding-right: 0;
+  margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+  background-color: darkgrey;
+}
+ul {
+  list-style: none;
+  padding: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+li {
+  display: inline-block;
+  padding-left: 1%;
+  margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+li a {
+  text-decoration: none;
+  font-family: monospace;
+  color: white;
+  padding: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+img {
+  display: block;
+  position: relative;
+  width: 100%;
+  padding: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h3 {
+  position: absolute;
+  top: 30%;
+  left: 0;
+  width: 100%;
+  color: white;
+  font-size: 3em;
+  padding: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.image {
+  display: block;
+  position: sticky;
+  padding: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+  bottom: 0;
+}
+
+.furryfriends {
+  width: 60%;
+  padding: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h3 span {
+   color: white;
+   letter-spacing: -1px;
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0);
+   padding: 10px;
+}
+
+#logo {
+  position: absolute;
+  display: block;
+  width: 100%;
+}
+
+#logo p {
+  display: block;
+  position: absolute;
+  top: inherit;
+  text-align: center;
+  font-style: italic;
+  width: 100%;
+  color: white;
+
+}
+p {
+  margin: 0;
+}
+
+footer {
+  display: block;
+  background-color: darkgrey;
+  padding: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.bottom {
+  display: inline;
+  padding: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
 }
