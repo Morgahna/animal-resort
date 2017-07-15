@@ -73,7 +73,7 @@ nav {
     margin-right: 0;
     margin-top: 0;
     margin-bottom: 0;
-  background-color: darkgrey;
+  background-color: navy;
 }
 ul {
   list-style: none;
@@ -208,7 +208,7 @@ p {
 
 footer {
   display: block;
-  background-color: darkgrey;
+  background-color: navy;
   padding: 0;
     padding-top: 0;
     padding-bottom: 2px;
